@@ -1,12 +1,12 @@
 {
-  "prefix":"!",
+  "prefix":"?",
   "owner":["1044855120992665630"],
   "nodes":[
     {
       "name":"v1",
-      "host":"45.137.70.68",
-      "port": 8028,
-      "password": "hanmetaforce",
+      "host":"us1.lavalink.creavite.co",
+      "port": 20080,
+      "password": "auto.creavite.co",
       "secure": false
     }
   ]
