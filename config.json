@@ -4,10 +4,10 @@
   "nodes":[
     {
       "name":"v1",
-      "host":"lavalink2.botsuniversity.ml",
-      "port": 443,
-      "password": "mathiscool",
-      "secure": true
+      "host":"45.137.70.68",
+      "port": 8028,
+      "password": "hanmetaforce",
+      "secure": false
     }
   ]
 }
